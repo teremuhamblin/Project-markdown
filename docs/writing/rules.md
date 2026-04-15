@@ -1,3 +1,5 @@
+📄 rules.md
+
 # Règles d’écriture
 
 Ce document définit les règles officielles d’écriture pour le projet.  
