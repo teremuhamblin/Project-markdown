@@ -60,3 +60,46 @@ project-markdown/
 ---
 
 > À Suivreee ...
+
+# Structure mise a jour 
+
+Vue d’ensemble de l’arborescence du projet et rôle de chaque élément.
+
+## 1. Racine du projet (mise à jour)
+- `README.md` — présentation générale
+- `PLAN.md` — plan global du projet
+- `STYLEGUIDE.md` — règles d’écriture
+- `EXEMPLE.md` — exemple de document
+- `TEMPLATE.md` — modèle de base
+- `CONTRIBUTING.md` — contribution
+- `CODEOFCONDUCT.md` — code de conduite
+- `SECURITY.md` — sécurité
+- `CHANGELOG.md` — historique des modifications
+- `LICENSE` — licence du projet
+
+## 2. Dossiers principaux (mise à jour)
+### `docs/`
+Documentation technique :
+- `architecture.md`
+- `setup.md`
+- `roadmap.md`
+
+### `project/`
+Structure interne :
+- `structure.md`
+- `workflow.md`
+
+### `writing/`
+Règles d’écriture :
+- `rules.md`
+- `exemples.md`
+
+### `assets/`
+Ressources :
+- `images/`
+- `templates/`
+
+## 3. Logique générale (mise à jour)
+- Chaque dossier possède un rôle clair
+- Les fichiers sont courts, méthodiques et cohérents
+- Le projet sert de **template réutilisable** pour tout type de documentation
